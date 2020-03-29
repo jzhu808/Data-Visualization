@@ -22,7 +22,6 @@
 
 
 ### Group Projects
-- [Project 1](https://public.tableau.com/profile/jie.zhu4883#!/vizhome/ADeepDiveU_S_AirlineIndustry/Index_Page) - Use RStudio to process the big data about US airports and airlines and then present meaningful charts and graphs with interactions to demonstrate an overview of the US airline industry
+- [Project 1](https://public.tableau.com/profile/jie.zhu4883#!/vizhome/ADeepDiveU_S_AirlineIndustry/Index_Page) - Use RStudio to process the big data about US airports and airlines and then present meaningful charts and graphs with interactions to demonstrate an overview of the US airline industry (the Tableau file is very big, so it may take a minute to load)
   > Tools Used: RStudio, Tableau  
-  Data Used:   
-  [Bureau of Transportation Statistics Aviation Data Library](https://www.transtats.bts.gov/databases.asp?Mode_ID=1&Mode_Desc=Aviation&Subject_ID2=0)  
+  Data Used: [Bureau of Transportation Statistics Aviation Data Library](https://www.transtats.bts.gov/databases.asp?Mode_ID=1&Mode_Desc=Aviation&Subject_ID2=0)  
