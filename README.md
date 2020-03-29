@@ -16,7 +16,7 @@
   Data Used: Contained within the .twbx file
   
 - [Assignment 3](https://github.com/jzhu808/ISOM-675-Data-Visualization/blob/master/HW3.pdf) - Build a ramen search engine to enable the users to find their favoriate ramen and its country and price
-  > Tools Used: Tableau
+  > Tools Used: Tableau  
   Tableau File: [HW3.twbx](https://github.com/jzhu808/ISOM-675-Data-Visualization/blob/master/HW3.twbx)   
   Data Used: [Kaggle Ramen Ratings Dataset](https://www.kaggle.com/residentmario/ramen-ratings)
 
